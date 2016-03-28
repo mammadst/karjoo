@@ -1,0 +1,66 @@
+body{
+
+    background-color: #ffcb00;
+    font-family: BNazanin;
+
+}
+
+
+
+@font-face {
+    font-family: 'BNazanin';
+    src: url('../fonts/bnazanin/BNazanin.eot');
+    src: url('../fonts/bnazanin/BNazanin.woff2') format('woff2'),
+    url('../fonts/bnazanin/BNazanin.woff') format('woff'),
+    url('../fonts/bnazanin/BNazanin.ttf') format('truetype'),
+    url('../fonts/bnazanin/BNazanin.svg#BNazanin') format('svg'),
+    url('../fonts/bnazanin/BNazanin.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'BNazaninBold';
+    src: url('../fonts/bnazanin-bold/BNazaninBold.woff') format('woff'),
+    url('../fonts/bnazanin-bold/BNazaninBold.ttf') format('truetype'),
+    url('../fonts/bnazanin-bold/BNazaninBold.svg#BNazaninBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BNaznnBd';
+    src: url('../fonts/bnazanin-bold/BNaznnBd.eot');
+    src: url('../fonts/bnazanin-bold/BNaznnBd.woff2') format('woff2'),
+    url('../fonts/bnazanin-bold/BNaznnBd.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+.vertical-line{
+
+    border-right: solid white;
+    border-width: thin;
+
+
+}
+
+
+.all-center{
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+
+}
+
+.all-center-parent{
+
+    position: relative;
+
+
+}

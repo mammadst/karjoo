@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'BNazaninBold';
+  src: url('BNazaninBold.woff') format('woff'),
+       url('BNazaninBold.ttf') format('truetype'),
+       url('BNazaninBold.svg#BNazaninBold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'BNaznnBd';
+  src: url('BNaznnBd.eot');
+  src: url('BNaznnBd.woff2') format('woff2'),
+       url('BNaznnBd.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
